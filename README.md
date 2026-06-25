@@ -1,4 +1,3 @@
-# AI-Resume-Critiquer
 
 # AI Resume Critiquer
 
